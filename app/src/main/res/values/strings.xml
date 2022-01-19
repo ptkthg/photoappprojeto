@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Patrick_Santos</string>
+    <string name="calculate">Calcular</string>
+    <string name="send">Enviar</string>
+</resources>
